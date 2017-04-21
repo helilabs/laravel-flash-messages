@@ -1,0 +1,21 @@
+{
+    "name": "helilabs/laravel-flash-messages",
+    "description": "Laravel package for Creating Better Flash Messages.",
+    "keywords": ["laravel", "flash-messages"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammed Manssour",
+            "email": "manssour.mohammed@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Helilabs\\FlashMessages\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support": "~5"
+    }
+
+}
